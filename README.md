@@ -1,0 +1,2 @@
+# Econometria
+Apuntes de econometría
